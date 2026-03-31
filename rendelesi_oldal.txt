@@ -1,0 +1,26 @@
+RENDELÉSI OLDAL
+
+
+
+Rendelni kívánt termékek
+	Egyes termékek összege
+Termékek végösszege
+Szállítási díj
+Végösszeg (teljes)
+
+(Kuponkód)
+
+Rendelő adatai
+	Név
+	Születési dátum
+		Év
+		Hónap
+		Nap
+	E-mail
+	Szállítási adatok
+		Irányítószám
+		Település
+		Utca
+		Házszám
+	Megjegyzés a rendeléssel kapcsolatba
+	
